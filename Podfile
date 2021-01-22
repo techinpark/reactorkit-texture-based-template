@@ -9,7 +9,7 @@ def texture_pods
 end 
 
 def rx_pods
-    pod 'RxSwift', '~>5.0'
+    pod 'RxSwift', '~> 5.0'
     pod 'RxCocoa'
     pod 'RxDataSources'
 end 
